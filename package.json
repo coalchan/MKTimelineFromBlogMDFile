@@ -1,0 +1,22 @@
+{
+  "name": "MKTimelineFromBlogMDFile",
+  "version": "0.0.1",
+  "description": "make timeline by using timelinejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coalchan/MKTimelineFromBlogMDFile.git"
+  },
+  "keywords": [
+    "timeline"
+  ],
+  "author": "coalchan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coalchan/MKTimelineFromBlogMDFile/issues"
+  },
+  "homepage": "https://github.com/coalchan/MKTimelineFromBlogMDFile"
+}
